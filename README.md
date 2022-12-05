@@ -1,2 +1,4 @@
-# Access_Code_Python
-#this program is used to check the age and give access to the right people allowed in a club .you must be 18 or older to be allowed entry. The program works in real time
+# Mini_Access_Python_Code
+ This program checks if a certain individual is allowed to enter into a pub by just calculating their age 
+ This program works in real-time.
+ 
